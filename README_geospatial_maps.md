@@ -31,6 +31,7 @@ After completing this project, I was able to:
 - GeoJSON
 - CSV datasets
 
+![Project Preview](Picture1.png)![Project Preview](Picture2.png)
 ## Datasets Used
 
 This project uses two main datasets:
